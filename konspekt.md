@@ -2,14 +2,22 @@
 ## Первоначальная настройка Git
 ### Утилита git confiig :
  - Посмотреть все установленные настройки и узнать где именно они заданы, используйте команду :
-   >   git config --list --show-origin
+      
+      ***git config --list --show-origin***
 - Первое, что следует сделать после установки Git — указать имя и адрес электронной почты :
-   >  git config --global user.name ~~"name user"~~
+     
+     ***git config --global user.name ~~"name user"~~***
 
-   > git config --global user.email ~~name@example.com~~
+    ***git config --global user.email ~~name@example.com~~***
 
 
  - Проверить используемую конфигурацию, можете использовать команду
-    > git config --list
+    
+    ***git config --list***
 
 
+### Инициализация репозитория :
+- Команда создаёт __в текущем каталоге__ новый подкаталог с именем .git, содержащий все необходимые файлы репозитория — структуру Git репозитория:
+
+    ***git init***
+    

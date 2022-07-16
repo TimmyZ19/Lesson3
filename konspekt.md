@@ -74,5 +74,10 @@
 
 ## Отправить изменения в удаленный репозитарий
 >git push origin master
+
+## Запросить изменения с удаленного репозитария
+>git pull origin master
+
+## 
 ___
 ![](https://i.gifer.com/1abF.gif)

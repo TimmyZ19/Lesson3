@@ -1,7 +1,7 @@
 # Конспект по работе с Git
 <img align="right" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1657717570~hmac=ad225bdcda0f547bfe83ca0ac59b84a5" width="100"> 
 
-  
+
 ## Первоначальная настройка Git
 ### Утилита git confiig :
  - Посмотреть все установленные настройки и узнать где именно они заданы, используйте команду :
@@ -48,4 +48,10 @@
 
     > ***git log -p --word-diff*** - для отображения дельты по словам
                                      
-    ![](https://i.gifer.com/1abF.gif)
+
+# Работа с ветвлением и слиянием
+
+
+
+
+![](https://i.gifer.com/1abF.gif)
